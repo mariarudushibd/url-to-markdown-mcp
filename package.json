@@ -1,0 +1,24 @@
+{
+  "name": "url-to-markdown-mcp",
+  "version": "1.0.0",
+  "description": "MCP Server for converting URLs to Markdown - Agentic use",
+  "author": "Likhon Sheikh",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "mcp-handler": "^1.0.4",
+    "next": "^15.2.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "typescript": "^5"
+  }
+}
