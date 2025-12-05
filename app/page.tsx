@@ -54,7 +54,7 @@ export default function Home() {
         </ul>
         <div style={{ marginTop: '1.5rem', padding: '1rem', background: '#0d0d14', borderRadius: '8px' }}>
           <h3 style={{ color: '#22d3ee', marginBottom: '0.5rem', fontSize: '0.9rem' }}>MCP Endpoint</h3>
-          <code style={{ display: 'block', color: '#4ade80', fontSize: '0.85rem' }}>https://your-domain.vercel.app/api/mcp</code>
+          <code style={{ display: 'block', color: '#4ade80', fontSize: '0.85rem' }}>https://url-to-markdown-mcp.vercel.app/api/mcp</code>
         </div>
       </div>
       <footer style={{ marginTop: '2rem', color: '#6b7280', fontSize: '0.85rem' }}>Author: Likhon Sheikh</footer>
